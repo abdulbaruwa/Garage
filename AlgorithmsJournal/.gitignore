@@ -1,0 +1,21 @@
+# Compiled source #
+###################
+*.com
+*.class
+*.exe
+*.o
+*.so
+*.ReSharper
+*.ReSharper.user
+
+# Folders #
+###################
+bin/
+obj/
+_ReSharper.CrossSharp
+CrossSharp.1.2.dotCover
+CrossSharp/CrossSharp.1.2.dotCover
+CrossSharp/CrossSharp.suo
+CrossSharp.sln.DotSettings.user
+CrossSharp.v11.suo
+TestResults/
